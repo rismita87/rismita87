@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rismita87
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning Typescript
-- 💞️ I’m looking to collaborate to contribute for exciting development projects
+- 👋 Hi, I’m Rismita. I am from India 🇮🇳. Now living in Denmark with my family.
+- 👀 I’m interested in full stack development and passionate about building user friendly web apps.
+- 🌱 I’m currently learning Typescript, Redux.
+- 💞️ I’m looking to collaborate to contribute for exciting development projects.
 - 📫 How to reach me email: rismita.ghosh@gmail.com, Linkedin: linkedin.com/in/rismita-ghosh-sarkar
 
 <!---
